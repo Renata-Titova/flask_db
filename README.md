@@ -16,5 +16,5 @@
 4. Запускаем app.py
 Приложение позволяет запускать sql запросы к Базе данных my_data.db. Таблицы содержащиеся там можно увидеть в списке. Также можно выбрать сущетсвующий запрос.
 
-2 часть: Pyspark: https://colab.research.google.com/drive/1hum4pyi2r_95P9wBVtgNCAVXr6msE6zu?usp=sharing
+2 часть: Pyspark: https://colab.research.google.com/drive/1VFM-QXwPBLCK9g3ocaAYhBd7INeu6YRK?usp=sharing
 нужно сохранить таблицы для использования
